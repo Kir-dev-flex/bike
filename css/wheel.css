@@ -1,0 +1,31 @@
+.wheel {
+    background-color: var(--white-color);
+    position: relative;
+    overflow: hidden;
+}
+
+.wheel__img {
+    transition: all 0.2s linear;
+    width: 100%;
+}
+
+.wheel-wrap {
+    max-height: 400px;
+    overflow: hidden;
+    padding: 50px 0;
+}
+
+.wheel__text{
+    transition: all 0.2s linear;
+    left: 0;
+    top: 0;
+    font-size: 40vh;
+    width: auto;
+    white-space: nowrap;
+}
+
+@media (max-width: 575px) {
+    .wheel-wrap {
+        padding: 0;
+    }
+}
