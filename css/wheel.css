@@ -5,8 +5,9 @@
 }
 
 .wheel__img {
-    transition: all 0.2s linear;
+    transition: transform 0.2s linear;
     width: 100%;
+    transform-origin: center center;
 }
 
 .wheel-wrap {
