@@ -1,9 +1,0 @@
-@font-face {
-    font-family: 'Open-Sauce-One-Light';
-    src:url('Open-Sauce-One-Light.ttf.woff') format('woff'),
-        url('Open-Sauce-One-Light.ttf.svg#Open-Sauce-One-Light') format('svg'),
-        url('Open-Sauce-One-Light.ttf.eot'),
-        url('Open-Sauce-One-Light.ttf.eot?#iefix') format('embedded-opentype'); 
-    font-weight: normal;
-    font-style: normal;
-}
